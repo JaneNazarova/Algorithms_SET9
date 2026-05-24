@@ -1,0 +1,3 @@
+C:/1файлы/2курс/2 семестр/алгосы/SET9/A1/A1_q/cmake-build-debug/CMakeFiles/A1_q.dir
+C:/1файлы/2курс/2 семестр/алгосы/SET9/A1/A1_q/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/1файлы/2курс/2 семестр/алгосы/SET9/A1/A1_q/cmake-build-debug/CMakeFiles/rebuild_cache.dir
